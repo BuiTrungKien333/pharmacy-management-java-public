@@ -82,10 +82,10 @@ Dự án áp dụng mô hình kiến trúc đa tầng **(3-Layer Architecture)**
 
 ```mermaid
 graph TD;
-    GUI[Presentation Layer (View)] --> BUS[Business Logic Layer (Service)];
-    BUS --> DAO[Data Access Layer (Repository)];
+    GUI["Presentation Layer (View)"] --> BUS["Business Logic Layer (Service)"];
+    BUS --> DAO["Data Access Layer (Repository)"];
     DAO --> DB[(SQL Server Database)];
-    DTO[Data Transfer Object (Model)] --- GUI;
+    DTO["Data Transfer Object (Model)"] --- GUI;
     DTO --- BUS;
     DTO --- DAO;
 ```
