@@ -233,5 +233,5 @@ v1.0.0 (Latest - 01/2026):
 - **Tác giả:** Bùi Trung Kiên
 - **Email:** [buitrungkien2005qng@gmail.com](mailto:buitrungkien2005qng@gmail.com)
 - **Zalo / Phone:** 0363 392 352
-- **Facebook:** [Trung Kiên](Link_Facebook_Cua_Ban)
+- **Facebook:** Trung Kiên
 - **Trường:** Đại học Công nghiệp TP.HCM (IUH)
